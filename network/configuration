@@ -11,5 +11,5 @@ NS-3 5G-LENA Network Configuration
    1.2 Donwload/clone and installion instructions:
      https://cttc-lena.gitlab.io/nr/html/
      https://5g-lena.cttc.es/
-2. After the installation, place the file "ns3_5glena_parallel_batch.cc" in "scracth" which is inside "ns-3-dev" subdirectory.
+2. After the installation, place the file "ns3_5glena_parallel_batch.cc" in the "scracth" subdirectory which is inside the "ns-3-dev" directory.
 
