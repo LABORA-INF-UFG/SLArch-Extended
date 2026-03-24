@@ -3,9 +3,10 @@ Extended SLArch framework for split learning in B5G/6G networks. Implements part
 
 ## Requirements
   1. Install the following dependencies:
-    - Python ≥ 3.9.25
-    - PyTorch ≥ 2.5.1
-    - TorchVision ≥ 0.20.1
+
+   - Python ≥ 3.9.25
+   - PyTorch ≥ 2.5.1
+   - TorchVision ≥ 0.20.1
 
 ## General Setup
 1. Donwload and unzip the entire project to your computer.
