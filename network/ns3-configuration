@@ -12,3 +12,4 @@ NS-3 5G-LENA Network Configuration
      https://cttc-lena.gitlab.io/nr/html/
      https://5g-lena.cttc.es/
 2. After the installation, place the file "ns3_5glena_parallel_batch.cc" in "scracth" which is inside "ns-3-dev" subdirectory.
+
