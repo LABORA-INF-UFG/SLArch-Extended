@@ -14,7 +14,7 @@ Extended SLArch framework for split learning in B5G/6G networks. Implements part
 3. Place the network code file "ns3_5glena_parallel_batch.cc" into the "scratch" subdirectory inside the "ns-3-dev" directory.
 4. Get the datasets from the following link:
     - https://drive.google.com/drive/folders/1zXjNipWWMTgloCLOnvJvJ4O6V9B-jxHq?usp=drive_link
-    - Place them in "ds-15" subdirectory inside "split" folder.
+    - Place them in the "ds-15" subdirectory inside the "split" folder.
 
 ## Steps to run the project
 1. Open the Linux terminal and navegate into the project root directory.
