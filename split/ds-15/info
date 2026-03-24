@@ -1,1 +1,3 @@
 Put the mnist dataset portions for all clients here, named x_train.pickle, x_test.pickle (x: 1, 2, 3, ..., 150).
+
+Link for datasets: https://drive.google.com/drive/folders/1zXjNipWWMTgloCLOnvJvJ4O6V9B-jxHq?usp=sharing
