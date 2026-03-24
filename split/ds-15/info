@@ -1,0 +1,1 @@
+Put the mnist dataset portions for all clients here, named x_train.pickle, x_test.pickle (x: 1, 2, 3, ..., 150).
